@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **nipunwimalasooriya.github.io**
+- 📫 How to reach me **[nipunwimalasooriya.github.io](https://nipunwimalasooriya.github.io/)**
   
 - ⚡ Fun fact **Call me as Rola**
 
