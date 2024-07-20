@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **[nipunwimalasooriya.github.io](https://nipunwimalasooriya.github.io/)**
   
-- ⚡ Fun fact **Call me as Rola**
+- ⚡ Fun fact **They call me as Rola**
 
 </td>
 <td width="50%" align="center">
