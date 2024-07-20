@@ -11,11 +11,11 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **Faculty of Computing, SUSL**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React & Python**
 
 - 📫 How to reach me **[nipunwimalasooriya.github.io](https://nipunwimalasooriya.github.io/)**
   
-- ⚡ Fun fact **They call me as Rola**
+- ⚡ Fun fact **My nickname is Rola**
 
 </td>
 <td width="50%" align="center">
