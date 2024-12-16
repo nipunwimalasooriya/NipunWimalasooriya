@@ -7,7 +7,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 🧑‍🎓 I’m an Undergraduate at **Faculty of Computing, SUSL**
 
